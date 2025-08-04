@@ -2,7 +2,7 @@
 
 🎓 **Harvard University** | B.A. in Applied Mathematics & Astronomy (Class of 2026)  
 🏋️‍♀️ NCAA Division I Student-Athlete | Harvard-Radcliffe Heavyweight Rowing Team  
-📍 Based in Cambridge, MA & Cornwall, UK | Open to AI, Data Science, and Research Opportunities in USA & UK
+📍 Based in Cambridge, MA & Cornwall, UK | Open to AI, Finance, and Data Science Opportunities in USA & UK
 
 ---
 
@@ -47,7 +47,7 @@ I'm Jenna, I am a rising senior interested about the intersections of **AI, data
 ### 🧠 Currently Learning
 
 - Advanced AI applications in enterprise systems  
-- Deep learning architectures for scientific data  
+- Deep learning architectures for quantitative and scientific data  
 - Building accessible data tools with natural language interfaces
 
 ---
