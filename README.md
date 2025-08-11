@@ -25,7 +25,6 @@ I'm Jenna, I am a rising senior interested about the intersections of **AI, data
 ## 🛠️ Tools & Languages
 
 - **Languages & Libraries**: Python, SQL, MATLAB, AMPL, LaTeX, PyTorch, scikit-learn, NumPy, pandas, matplotlib  
-- **Libraries**: NumPy, SciPy, AstroPy, Matplotlib, pandas, scikit-learn
 - **Tools**: Tableau, GitHub, Jupyter, Mathematica, VS Code, Overleaf
 - **Concepts**: Machine Learning, Probabilistic Modeling, Optimization, Data Visualization, CNNs, RAG Systems
 
