@@ -1,18 +1,18 @@
 ## ✨ Jenna Kempster-Taylor
 
-🎓 **Harvard University** | B.A. in Applied Mathematics & Astronomy (Class of 2026)  
-🏋️‍♀️ NCAA Division I Student-Athlete | Harvard-Radcliffe Heavyweight Rowing Team  
-📍 Based in Cambridge, MA & Cornwall, UK | Open to AI, Finance, and Data Science Opportunities in USA & UK
+ **Harvard University** | B.A. in Applied Mathematics & Astronomy (Class of 2026)  
+ NCAA Division I Student-Athlete | Harvard-Radcliffe Heavyweight Rowing Team  
+ Based in Cambridge, MA & Cornwall, UK 
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I'm Jenna, I am a rising senior interested about the intersections of **AI, data science, and astrophysics**. I enjoy exploring and building systems that solve real-world problems. Whether it's through ML or data visualisation, I love turning complex data into actionable insights. 
 
 ---
 
-## 🔬 Interests
+## Interests
 
 - Astrophysical simulations
 - Numerical methods and mathematical modeling
@@ -22,7 +22,7 @@ I'm Jenna, I am a rising senior interested about the intersections of **AI, data
 
 ---
 
-## 🛠️ Tools & Languages
+## Tools & Languages
 
 - **Languages & Libraries**: Python, SQL, MATLAB, AMPL, LaTeX, PyTorch, scikit-learn, NumPy, pandas, matplotlib  
 - **Tools**: Tableau, GitHub, Jupyter, Mathematica, VS Code, Overleaf
@@ -30,29 +30,29 @@ I'm Jenna, I am a rising senior interested about the intersections of **AI, data
 
 ---
 
-### 🚀 Projects
+### Projects
 
-- **🔭 Galaxy Merger Classification & Redshift Estimation**  
+- **Galaxy Merger Classification & Redshift Estimation**  
   Dual-head CNN trained on 270K+ galaxy images to classify mergers and estimate redshift. Presented at the Harvard-Smithsonian Center for Astrophysics.
 
-- **🌌 Machine Learning for Astrophysics**  
+- ** Machine Learning for Astrophysics**  
   Built models to classify supernovae and estimate the Hubble constant using real Type Ia data. Applied PCA, t-SNE, and probabilistic inference.
 
-- **📊 AI Intern @ Flex**  
+- ** AI Intern @ Flex**  
   Developed Tableau dashboards, contributed to a natural language-to-SQL RAG system, and led intern coordination for AI-driven projects.
 
 ---
 
-### 🧠 Currently Learning
+### Currently Learning
 
-- Advanced AI applications in enterprise systems  
+- Thesis: Anomaly Detection Pipelines for Transient Astronomy
 - Deep learning architectures for quantitative and scientific data  
 - Building accessible data tools with natural language interfaces
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 jennakempstertaylor@college.harvard.edu 
+- 📧 jennakempstertaylor@college.harvard.edu  
 - 🔗 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jenna-kempster-taylor-70915426b/))
 
