@@ -35,10 +35,10 @@ I'm Jenna, I am a rising senior interested about the intersections of **AI, data
 - **Galaxy Merger Classification & Redshift Estimation**  
   Dual-head CNN trained on 270K+ galaxy images to classify mergers and estimate redshift. Presented at the Harvard-Smithsonian Center for Astrophysics.
 
-- ** Machine Learning for Astrophysics**  
+- **Machine Learning for Astrophysics**  
   Built models to classify supernovae and estimate the Hubble constant using real Type Ia data. Applied PCA, t-SNE, and probabilistic inference.
 
-- ** AI Intern @ Flex**  
+- **AI Intern @ Flex**  
   Developed Tableau dashboards, contributed to a natural language-to-SQL RAG system, and led intern coordination for AI-driven projects.
 
 ---
