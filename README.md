@@ -1,14 +1,13 @@
 ## ✨ Jenna Kempster-Taylor
 
  **Harvard University** | B.A. in Applied Mathematics & Astronomy (Class of 2026)  
- NCAA Division I Student-Athlete | Harvard-Radcliffe Heavyweight Rowing Team  
  Based in Cambridge, MA & Cornwall, UK 
 
 ---
 
 ### About Me
 
-I'm Jenna, I am a rising senior interested about the intersections of **AI, data science, and astrophysics**. I enjoy exploring and building systems that solve real-world problems. Whether it's through ML or data visualisation, I love turning complex data into actionable insights. 
+I'm Jenna, I am a senior interested about the intersections of **AI, data science, and astrophysics**.
 
 ---
 
