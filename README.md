@@ -1,7 +1,7 @@
 ## ✨ Jenna Kempster-Taylor
 
- **University of Cambridge** | MPhil in Data Intensive Science '27
- **Harvard University** | B.A. in Applied Mathematics & Astronomy '26
+ **University of Cambridge** | MPhil in Data Intensive Science '27 \
+ **Harvard University** | B.A. in Applied Mathematics & Astronomy '26 \
  Based in Cambridge, MA & Cornwall, UK 
 
 --- 
