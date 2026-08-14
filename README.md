@@ -1,23 +1,23 @@
 ## ✨ Jenna Kempster-Taylor
 
- **Harvard University** | B.A. in Applied Mathematics & Astronomy (Class of 2026)  
+ **University of Cambridge** | MPhil in Data Intensive Science '27
+ **Harvard University** | B.A. in Applied Mathematics & Astronomy '26
  Based in Cambridge, MA & Cornwall, UK 
 
----
+--- 
 
-### About Me
+### Projects
 
-I'm Jenna, I am a senior interested about the intersections of **AI, data science, and astrophysics**.
+- **Summer Research** | Institute of Astronomy, University of Cambridge 
+  
+- **Galaxy Merger Classification & Redshift Estimation**  
+  Dual-head CNN trained on 270K+ galaxy images to classify mergers and estimate redshift. Presented at the Harvard-Smithsonian Center for Astrophysics.
 
----
+- **Machine Learning for Astrophysics**  
+  Built models to classify supernovae and estimate the Hubble constant using real SN Ia data. Applied PCA, t-SNE, and probabilistic inference.
 
-## Interests
-
-- Astrophysical simulations
-- Numerical methods and mathematical modeling
-- Scientific programming and data visualisation
-- Applied statistics and signal processing in astronomy
-- Machine learning applications
+- **AI Intern @ Flex**  
+  Developed Tableau dashboards, contributed to a natural language-to-SQL RAG system, and led intern coordination for AI-driven projects.
 
 ---
 
@@ -26,29 +26,6 @@ I'm Jenna, I am a senior interested about the intersections of **AI, data scienc
 - **Languages & Libraries**: Python, SQL, MATLAB, AMPL, LaTeX, PyTorch, scikit-learn, NumPy, pandas, matplotlib  
 - **Tools**: Tableau, GitHub, Jupyter, Mathematica, VS Code, Overleaf
 - **Concepts**: Machine Learning, Probabilistic Modeling, Optimization, Data Visualization, CNNs, RAG Systems
-
----
-
-### Projects
-
-- **Galaxy Merger Classification & Redshift Estimation**  
-  Dual-head CNN trained on 270K+ galaxy images to classify mergers and estimate redshift. Presented at the Harvard-Smithsonian Center for Astrophysics.
-
-- **Machine Learning for Astrophysics**  
-  Built models to classify supernovae and estimate the Hubble constant using real Type Ia data. Applied PCA, t-SNE, and probabilistic inference.
-
-- **AI Intern @ Flex**  
-  Developed Tableau dashboards, contributed to a natural language-to-SQL RAG system, and led intern coordination for AI-driven projects.
-
----
-
-### Currently Learning
-
-- Thesis: Anomaly Detection Pipelines for Transient Astronomy
-- Deep learning architectures for quantitative and scientific data  
-- Building accessible data tools with natural language interfaces
-
----
 
 ## Connect With Me
 
